@@ -1,3 +1,4 @@
 # ACMP Solutions
 
-Мой профиль в acmp.ru: https://acmp.ru/index.asp?main=user&id=564384
+### Мой профиль в acmp.ru: https://acmp.ru/index.asp?main=user&id=564384
+Список решений. Не стоит ожидать, что этот список будет регулярно обновляться. Эти решения могут быть недостаточно оптимизированы.
